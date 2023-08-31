@@ -1,0 +1,35 @@
+{
+  "name": "mobileapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "prod": "next prod",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.7",
+    "@types/styled-components": "^5.1.26",
+    "babel-plugin-styled-components": "^2.1.4",
+    "formik": "^2.4.3",
+    "react-input-mask": "^2.0.4",
+    "react-router-dom": "^6.15.0",
+    "styled-components": "^6.0.7",
+    "styled-content-loader": "^1.2.2",
+    "typescript": "^5.2.2",
+    "yup": "^1.2.0"
+  },
+  "resolutions": {
+    "styled-components": "^5"
+  }
+}
